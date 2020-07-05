@@ -1,0 +1,523 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\JRodr
+Erodr_1bitcomp
+Z0 w1585148998
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab
+Z5 8C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_1BitComp.vhd
+Z6 FC:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_1BitComp.vhd
+l0
+L5
+Vn?0?>hC]GUhWCZh=db[aX3
+!s100 8:Q7`D;7I9`[>:QRXL>JT0
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1585189213.128000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_1BitComp.vhd|
+Z10 !s107 C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_1BitComp.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+Z13 DEx4 work 13 rodr_1bitcomp 0 22 n?0?>hC]GUhWCZh=db[aX3
+l16
+L14
+Z14 VzmSc@Ulc=9H2CLSin:gZS3
+Z15 !s100 `QlaL:Hj`=ej6I?n^^6N`2
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Acomp1_arch
+R1
+R2
+R3
+DEx4 work 13 rodr_1bitcomp 0 22 Xb0KkBLIjW;Wje2H3oKKz1
+l16
+L14
+VM<4@kfd>KEf;4YocCg^dD0
+R7
+32
+R9
+R11
+R12
+w1585147211
+Z16 !s107 C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_1BitComp.vhd|
+!s108 1585147224.429000
+!s100 iiR1>kjfTICc<37Ymfc1D0
+!i10b 1
+Erodr_comparator
+Z17 w1585189207
+R1
+R2
+R3
+R4
+Z18 8C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_Comparator.vhd
+Z19 FC:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_Comparator.vhd
+l0
+L5
+VT@XSDzSaB7N54<QD7H[5W3
+R7
+32
+Z20 !s108 1585189212.867000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_Comparator.vhd|
+Z22 !s107 C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_Comparator.vhd|
+R11
+R12
+!s100 da2K7AmOfP1[MGme_;R1W2
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+DEx4 work 15 rodr_comparator 0 22 T@XSDzSaB7N54<QD7H[5W3
+l24
+L14
+VL_WCRePLMEEDWO4_Fh`e50
+R7
+32
+R20
+R21
+R22
+R11
+R12
+!s100 I;^aKgh7ze;>L3=fGJUUz2
+!i10b 1
+Acomp32_arch
+R1
+R2
+R3
+DEx4 work 15 rodr_comparator 0 22 YbC[odfRI6?`AP5c<i1Ke2
+l27
+L14
+VAS@EHV2F1G`YHRWXk[;=A2
+R7
+32
+R21
+R22
+R11
+R12
+w1585147138
+!s108 1585147224.179000
+!s100 W;oDU`P52GR=YfALZU`dS3
+!i10b 1
+Aarch
+R2
+R3
+DEx4 work 15 rodr_comparator 0 22 RQ`BMi92z;Q6PPH8@Ol;22
+l22
+L10
+V?zBQkSaekG=2bk?@3N]A:0
+R7
+32
+R21
+R11
+R12
+w1584996774
+R22
+!s108 1584996806.395000
+!s100 EgUQ3OznVa:FSmK8JfkQ@2
+!i10b 1
+Erodr_eight_bit_equal_port
+Z23 w1584917947
+R2
+R3
+R4
+Z24 8C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_eight_bit_equal_port.vhd
+Z25 FC:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_eight_bit_equal_port.vhd
+l0
+L4
+VmTa;^BKM^@VRmieCT=HO63
+R7
+32
+Z26 !s108 1585189212.354000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_eight_bit_equal_port.vhd|
+Z28 !s107 C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_eight_bit_equal_port.vhd|
+R11
+R12
+!s100 OFcbBz5Wo[nPO]AP4R4Q@3
+!i10b 1
+Aarch
+R2
+R3
+DEx4 work 25 rodr_eight_bit_equal_port 0 22 mTa;^BKM^@VRmieCT=HO63
+l17
+L8
+VSm7HY<Z1dC;0K02UH8G?P1
+R7
+32
+R26
+R27
+R28
+R11
+R12
+!s100 FjiRejF97aoX^b@7aK;L>2
+!i10b 1
+Erodr_equal
+Z29 w1584843934
+R2
+R3
+R4
+Z30 8C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_Equal.vhd
+Z31 FC:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_Equal.vhd
+l0
+L4
+V^7^A1jCo1U9:a4fd:2@km3
+R7
+32
+Z32 !s108 1585189211.818000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_Equal.vhd|
+Z34 !s107 C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_Equal.vhd|
+R11
+R12
+!s100 TeJRKLMfTLFiD5ihzcI6N3
+!i10b 1
+Aarch
+R2
+R3
+DEx4 work 10 rodr_equal 0 22 ^7^A1jCo1U9:a4fd:2@km3
+l12
+L10
+VOC1Vd<fRdzMZWEVL;7_oS3
+R7
+32
+R32
+R33
+R34
+R11
+R12
+!s100 [Tzli2]U98=DoHLG`e4Mf3
+!i10b 1
+Erodr_four_bit_equal_port
+Z35 w1584846639
+R2
+R3
+R4
+Z36 8C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_four_bit_equal_port.vhd
+Z37 FC:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_four_bit_equal_port.vhd
+l0
+L4
+V<@MlB_lgBTXb;N1Y_5?`=0
+R7
+32
+Z38 !s108 1585189212.079000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_four_bit_equal_port.vhd|
+Z40 !s107 C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_four_bit_equal_port.vhd|
+R11
+R12
+!s100 >[RPdjMM2_6l^@ObC]VzK0
+!i10b 1
+Aarch
+R2
+R3
+DEx4 work 24 rodr_four_bit_equal_port 0 22 <@MlB_lgBTXb;N1Y_5?`=0
+l18
+L10
+V^omWb[SB;KJZ[AoBMa=dg1
+R7
+32
+R38
+R39
+R40
+R11
+R12
+!s100 M8kkG2LdYg57@c4SS91UH1
+!i10b 1
+Erodr_less
+w1585110505
+R2
+R3
+R4
+8C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_Less.vhd
+FC:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_Less.vhd
+l0
+L4
+Vn^mQAbm36DzV6TFPJ@f1K2
+R7
+32
+R11
+R12
+!s100 o_KXDRJ?4G?X3VB16[VlR0
+!i10b 1
+!s108 1585147034.082000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_Less.vhd|
+!s107 C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_Less.vhd|
+Erodr_thirtytwo_bit_equal
+Z41 w1584989800
+R2
+R3
+R4
+Z42 8C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_thirtytwo_bit_equal.vhd
+Z43 FC:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_thirtytwo_bit_equal.vhd
+l0
+L4
+VE9MAD;Df9cfD45jAhz38W0
+R7
+32
+Z44 !s108 1585189212.623000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_thirtytwo_bit_equal.vhd|
+Z46 !s107 C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/RODR_thirtytwo_bit_equal.vhd|
+R11
+R12
+!s100 ??i<k9]zkCcQ;LPBN1MVf3
+!i10b 1
+Aarch
+R2
+R3
+DEx4 work 24 rodr_thirtytwo_bit_equal 0 22 E9MAD;Df9cfD45jAhz38W0
+l14
+L10
+VmI@FV0SZzXUdF2SUR:HlI3
+R7
+32
+R44
+R45
+R46
+R11
+R12
+!s100 Xje;gnaY@SNAFS5kjFcQH3
+!i10b 1
+Erodr_unsignedsignedcomp
+w1585183680
+R1
+R2
+R3
+R4
+8C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_UnsignedSignedComp.vhd
+FC:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_UnsignedSignedComp.vhd
+l0
+L5
+V@Xc@Of299;D@dR4P;DETZ2
+R7
+32
+R11
+R12
+!s100 znE6_H9M?Xz6=je24LHZb0
+!i10b 1
+!s108 1585183686.098000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_UnsignedSignedComp.vhd|
+!s107 C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\RODR_UnsignedSignedComp.vhd|
+Etest_comparator
+Z47 w1585188027
+R1
+R2
+R3
+R4
+Z48 8C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\test_Comparator.vhd
+Z49 FC:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\test_Comparator.vhd
+l0
+L5
+VVh3LfFi^O2c6`:<FUa6hh3
+R7
+32
+Z50 !s108 1585189212.994000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\test_Comparator.vhd|
+Z52 !s107 C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\test_Comparator.vhd|
+R11
+R12
+!s100 Y;==dj]3oY<?KK1?3M0cD1
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+Z53 DEx4 work 15 test_comparator 0 22 Vh3LfFi^O2c6`:<FUa6hh3
+l28
+L9
+V=Sk@3n5fIdIRTTGVD_<TR2
+!s100 ;LmEIGn3=7L=U4gSThN981
+R7
+32
+R50
+R51
+R52
+R11
+R12
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R53
+l28
+L9
+VJlGkGe:64Um?fN:S@nUMf0
+R7
+32
+R51
+R52
+R11
+R12
+w1585147027
+!s108 1585147224.304000
+!s100 B@>9?kZFnjSRCaWN4A>jm1
+!i10b 1
+Aarch_test
+R2
+R3
+DEx4 work 15 test_comparator 0 22 J@WU7ccnW=PWW06IW^O3I2
+l17
+L7
+VE?l=IXPCo[dUDTQc2`Cg03
+R7
+32
+R11
+R12
+w1584996796
+R51
+R52
+!s108 1584996806.532000
+!s100 cLYfFjUFjWeF8Gn7b7e:o2
+!i10b 1
+Etest_eight_bit_equal_port
+Z54 w1584847093
+R2
+R3
+R4
+Z55 8C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_eight_bit_equal_port.vhd
+Z56 FC:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_eight_bit_equal_port.vhd
+l0
+L4
+V<h4mzV:CI`cIh1^E1]D5L2
+R7
+32
+Z57 !s108 1585189212.499000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_eight_bit_equal_port.vhd|
+Z59 !s107 C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_eight_bit_equal_port.vhd|
+R11
+R12
+!s100 ?_YWcOX>61AaQi]KZ;oVT0
+!i10b 1
+Aarch_test
+R2
+R3
+DEx4 work 25 test_eight_bit_equal_port 0 22 <h4mzV:CI`cIh1^E1]D5L2
+l16
+L7
+Vngm^YLbkKXG^Q?BccKNZ^1
+R7
+32
+R57
+R58
+R59
+R11
+R12
+!s100 :1^B43R>b;dmOU_k9UR]53
+!i10b 1
+Etest_equal
+Z60 w1584591177
+R2
+R3
+R4
+Z61 8C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\test_equal.vhd
+Z62 FC:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\test_equal.vhd
+l0
+L4
+VoQj[Q7UN1MDo81d9kdeH;1
+R7
+32
+Z63 !s108 1585189211.944000
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\test_equal.vhd|
+Z65 !s107 C:\Users\JRodr\Dropbox\Spring 2020 CCNY\CSC343 - Computer Organization Lab\test_equal.vhd|
+R11
+R12
+!s100 TQW0W7;Y0ZYS=:H0gO7YB3
+!i10b 1
+Aarch_test
+R2
+R3
+DEx4 work 10 test_equal 0 22 oQj[Q7UN1MDo81d9kdeH;1
+l15
+L7
+V=7kM4HljHnoDB??YiCN1=2
+R7
+32
+R63
+R64
+R65
+R11
+R12
+!s100 NLS[:3<GK`Qnh?l6I>3z:2
+!i10b 1
+Etest_four_bit_equal_port
+Z66 w1584846549
+R2
+R3
+R4
+Z67 8C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_four_bit_equal_port.vhd
+Z68 FC:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_four_bit_equal_port.vhd
+l0
+L4
+VEPcn]8a6nnRL@K9bd?>H31
+R7
+32
+Z69 !s108 1585189212.218000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_four_bit_equal_port.vhd|
+Z71 !s107 C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_four_bit_equal_port.vhd|
+R11
+R12
+!s100 IXb^9YiniYXQAP`Gh@fgS3
+!i10b 1
+Aarch_test
+R2
+R3
+DEx4 work 24 test_four_bit_equal_port 0 22 EPcn]8a6nnRL@K9bd?>H31
+l16
+L7
+VUjmIWCODMZZDfdIP<GfZ?0
+R7
+32
+R69
+R70
+R71
+R11
+R12
+!s100 ];8=>l=S6e9eWG^=cghP>1
+!i10b 1
+Etest_thirtytwo_bit_equal
+Z72 w1584848529
+R2
+R3
+R4
+Z73 8C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_thirtytwo_bit_equal.vhd
+Z74 FC:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_thirtytwo_bit_equal.vhd
+l0
+L4
+VJim[`fKG5M<TYzQR^:JNh0
+R7
+32
+Z75 !s108 1585189212.745000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_thirtytwo_bit_equal.vhd|
+Z77 !s107 C:/Users/JRodr/Dropbox/Spring 2020 CCNY/CSC343 - Computer Organization Lab/test_thirtytwo_bit_equal.vhd|
+R11
+R12
+!s100 K@eh^KLlKGb1l0@k_NFJa3
+!i10b 1
+Aarch_test
+R2
+R3
+DEx4 work 24 test_thirtytwo_bit_equal 0 22 Jim[`fKG5M<TYzQR^:JNh0
+l16
+L7
+V^C<2WR=cUCoPEbLD=7]lV0
+R7
+32
+R75
+R76
+R77
+R11
+R12
+!s100 A^^?gD?SLFOBMODKeUWo22
+!i10b 1
